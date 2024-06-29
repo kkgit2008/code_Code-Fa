@@ -1,0 +1,31 @@
+
+
+1.	install "code-fa_v1.2.2.apk"
+
+2.	open and wait..
+
+3.	while completed, open your browser and type:
+ 	http://127.0.0.1:10000/
+  
+4.	search for extension(s): 
+	ext install MS-CEINTL.vscode-language-pack-zh-hans
+	ext install vscjava.vscode-java-pack
+ 	ext install redhat.java
+	ext install vscjava.vscode-java-debug
+	ext install vscjava.vscode-java-test
+ 	ext install vscjava.vscode-java-dependency
+	ext install vscjava.vscode-maven
+  	
+6.	在vscode中随便打开一个文件夹,然后打开终端输入:
+
+	apt update			//注释：更新apt版本
+	apt install git		//注释：安装git等..
+ 	apt install nodejs
+  	apt install npm
+
+7.	download file "jdk-22_linux-aarch64_bin.tar.gz"
+
+8.	install jdk:
+	tar zxvf jdk-22_linux-aarch64_bin.tar.gz
+///permisson denied...
+9.	set JAVA_HOME 
