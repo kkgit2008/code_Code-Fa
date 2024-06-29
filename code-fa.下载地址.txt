@@ -1,10 +1,11 @@
 
 文件名: Code FA_v1.2.2(14).apk
+包名：com.nightmare.code
 md5：c92bfcfca365de7bf239e68cf6c1b041
 sha1：eb99e430425582d240ed05286f24a89d015315fe
 
 文件描述: 此1.2.2版本bug较少。 
 
-//下载链接: 
-https://azws.ddooo.com/appfile/vscode_217058.apk?time=1719555081&key=378e319a715330125f6502e0af822058
+//下载地址: 
+https://m.ddooo.com/softdown/217058.htm
 
