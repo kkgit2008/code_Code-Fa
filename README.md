@@ -22,13 +22,9 @@ Cheers! 🍻
 - 支持自定义 Code-Server 版本
 - 支持无网络环境下运行
 
-## 开始使用
+## 开始使用（已更改）
 
-1.下载 [code-server-4.13.0-linux-arm64.tar.gz](https://github.com/coder/code-server/releases/download/v4.13.0/code-server-4.13.0-linux-arm64.tar.gz)
-
-2.将下载的文件放到 /sdcard，注意不用解压，不要更改他的文件名
-
-3.启动 Code FA，Engoy it!
+1.打开“code-fa.新手教程”即可。 
 
 ## 更改 Code-Server 版本
 
